@@ -1,7 +1,11 @@
 # Computer Programming - Assignment 1
 
 Link to Question PDF: [Assignment_1.pdf](./Assignment_1.pdf)
-
+### Instructions to compile and run (all done on Ubuntu 20.04)
+```
+$ gcc code.c
+$ ./a.out
+```
 * This repository is a collection of my codes for this assignment *(not OJ)*
 * All codes are written in C
 
